@@ -19,4 +19,5 @@ The entire code scripts will be made public after being licensed.
 
 ## Special thanks
 
+- [Knut(Ke) Chen](https://github.com/KnutKeChen)
 - [Haojie Wei](https://github.com/Dream-High)
