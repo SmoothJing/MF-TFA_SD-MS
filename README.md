@@ -2,8 +2,6 @@
 ## Introduction
 The official implementation of "A Singing Melody Extraction Network Via Self-Distillation and Multi-Level Supervision."
 
-Extracting singing melody from polyphonic music
-is an important topic in the field of music information retrieval.
 In this paper, we propose a singing melody extraction network
 consisting of five stacked multi-scale feature time-frequency ag-
 gregation (MF-TFA) modules. In the same network, deeper layers
@@ -24,5 +22,8 @@ forms six compared state-of-the-art methods, achieving overall
 accuracy (OA) scores of 87.1%, 89.9%, and 76.6% on the ADC
 2004, MIREX 05, and MEDLEY DB datasets, respectively. 
 <img src="./overall.png">
+
+## Main Results on Extraction Performance
+
 
 The entire code scripts will be made public after being licensed.
