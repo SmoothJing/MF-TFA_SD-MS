@@ -1,5 +1,7 @@
-# A Singing Melody Extraction Network Via Self-Distillation and Multi-Level Supervision
+# MF-TFA_SD-MS
 ## Introduction
+The official implementation of "A Singing Melody Extraction Network Via Self-Distillation and Multi-Level Supervision."
+
 Extracting singing melody from polyphonic music
 is an important topic in the field of music information retrieval.
 In this paper, we propose a singing melody extraction network
