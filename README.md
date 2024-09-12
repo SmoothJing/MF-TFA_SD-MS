@@ -18,5 +18,5 @@ multi-level supervision to guide network training.
 The entire code scripts will be made public after being licensed.
 
 ## Special thanks
-- [Knut(Ke) Chen](https://github.com/KnutKeChen)
-- [Shuai Yu](https://github.com/ShuaiYu)
+
+- [Knut(Ke) Chen](https://github.com/Dream-High)
