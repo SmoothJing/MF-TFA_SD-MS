@@ -23,7 +23,5 @@ accuracy (OA) scores of 87.1%, 89.9%, and 76.6% on the ADC
 2004, MIREX 05, and MEDLEY DB datasets, respectively. 
 <img src="./overall.png">
 
-## Main Results on Extraction Performance
-
-
+## Important updata
 The entire code scripts will be made public after being licensed.
