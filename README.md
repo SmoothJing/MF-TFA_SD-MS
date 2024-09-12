@@ -10,11 +10,7 @@ layers. To help the shallower layers enhance the ability of task-
 relevant feature extraction, we propose a self-distillation and
 multi-level supervision (SD-MS) method, which leverages the fea-
 ture distillation from the deepest layer to the shallower one and
-multi-level supervision to guide network training. Visualization
-analysis shows that by introducing SD-MS, the same-level layer in
-the network can obtain a clearer representation of fundamental
-frequency components, while the shallower layers can even learn
-more task-relevant semantic information.
+multi-level supervision to guide network training. 
 
 <img src="./overall.png">
 
