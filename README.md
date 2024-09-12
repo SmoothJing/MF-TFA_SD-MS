@@ -12,8 +12,6 @@ multi-level supervision (SD-MS) method, which leverages the fea-
 ture distillation from the deepest layer to the shallower one and
 multi-level supervision to guide network training. 
 
-<img src="./overall.png">
-
 ## Important updata
 The entire code scripts will be made public after being licensed.
 
