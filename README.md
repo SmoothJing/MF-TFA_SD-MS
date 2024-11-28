@@ -26,6 +26,6 @@ We expect to release full code and training details in December.
 
 ## Special thanks
 
-- [Ke Chen](https://github.com/KnutKeChen)
 - [Haojie Wei](https://github.com/Dream-High)
+- [Ke Chen](https://github.com/KnutKeChen)
 - [Shuai Yu](https://github.com/yushuai)
