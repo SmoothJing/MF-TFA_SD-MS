@@ -22,6 +22,7 @@ multi-level supervision to guide network training.
 
 ## Important updata
 The entire code scripts will be made public after being licensed.
+We expect to release full code and training details in December.
 
 ## Special thanks
 
