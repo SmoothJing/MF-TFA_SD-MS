@@ -1,6 +1,7 @@
 # MF-TFA_SD-MS
 ## Introduction
 The official implementation of "A Singing Melody Extraction Network Via Self-Distillation and Multi-Level Supervision."
+Our paper has been accepted by 2025 ICASSP.
 
 We propose a singing melody extraction network
 consisting of five stacked multi-scale feature time-frequency ag-
@@ -22,7 +23,6 @@ multi-level supervision to guide network training.
 
 ## Important updata
 The entire code scripts will be made public after being licensed.
-We expect to release full code and training details in December.
 
 ## Special thanks
 
