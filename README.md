@@ -36,13 +36,13 @@ The visualization illustrates that our proposed method can reduce the octave err
 
 The bold values indicate the best performance for a specific metric.
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png" alt="Table" width="800">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png" alt="Table" width="1800">
 
 ### Ablation study result_1
 
 Results of ablation experiments introducing a self-distillation and multi-level supervision method in partially existing singing melody extraction model. SD-MS indicates that self-distillation and multi-level supervision is used.
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="800">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="1800">
 
 ### Ablation study result_2r
 
