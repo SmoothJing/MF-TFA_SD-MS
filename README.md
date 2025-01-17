@@ -48,7 +48,7 @@ Results of ablation experiments introducing a self-distillation and multi-level 
 
 Ablation study of the loss function on three datasets
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="100">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="500">
 
 ## Important updata
 
