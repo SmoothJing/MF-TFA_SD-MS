@@ -44,11 +44,11 @@ Results of ablation experiments introducing a self-distillation and multi-level 
 
 <img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="1800">
 
-### Ablation study result_2r
+### Ablation study result_2
 
 Ablation study of the loss function on three datasets
 
-![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-s.png)
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="100">
 
 ## Important updata
 
