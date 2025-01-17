@@ -23,6 +23,12 @@ multi-level supervision to guide network training.
 - [ADC 2004 & MIREX05](https://labrosa.ee.columbia.edu/projects/melody/)
 - [MEDLEY DB](https://medleydb.weebly.com/)
 
+## Results
+
+### Prediction result
+The visualization illustrates that our proposed method can reduce the octave errors and the melody detection errors.
+![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/visualization-2.png)
+
 ## Important updata
 The entire code scripts will be made public after being licensed.
 
