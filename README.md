@@ -30,7 +30,7 @@ multi-level supervision to guide network training.
 
 The visualization illustrates that our proposed method can reduce the octave errors and the melody detection errors.
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/visualization-2.png" alt="Table" width="600">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/visualization-2.png" alt="Table" width="200">
 
 ### Comprehensive result
 
@@ -48,7 +48,7 @@ Results of ablation experiments introducing a self-distillation and multi-level 
 
 Ablation study of the loss function on three datasets
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-s.png" alt="Table" width="100">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-s.png" alt="Table" width="200">
 
 ## Important updata
 
