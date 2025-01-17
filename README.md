@@ -26,8 +26,16 @@ multi-level supervision to guide network training.
 ## Results
 
 ### Prediction result
+
 The visualization illustrates that our proposed method can reduce the octave errors and the melody detection errors.
+
 ![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/visualization-2.png)
+
+### Comprehensive result
+
+The bold values indicate the best performance for a specific metric.
+
+![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png)
 
 ## Important updata
 The entire code scripts will be made public after being licensed.
