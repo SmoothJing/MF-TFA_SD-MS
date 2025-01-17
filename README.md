@@ -27,7 +27,7 @@ The visualization illustrates that our proposed method can reduce the octave err
 
 The bold values indicate the best performance for a specific metric.
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png" alt="Table" width="1800" height="1000">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png" alt="Table" width="1800" height="600">
 
 ### Ablation study result_1
 
