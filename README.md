@@ -5,7 +5,7 @@ The official implementation of "A Singing Melody Extraction Network Via Self-Dis
 
 We propose a singing melody extraction network consisting of five stacked multi-scale feature time-frequency aggregation (MF-TFA) modules. In the same network, deeper layers generally contain more contextual information than shallower layers. To help the shallower layers enhance the ability of task-relevant feature extraction, we propose a self-distillation and multi-level supervision (SD-MS) method, which leverages the feature distillation from the deepest layer to the shallower one and multi-level supervision to guide network training. 
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png" alt="Table" width="1800">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png" alt="Table" width="1800" height="auto">
 
 ## Getting Started
 
@@ -27,13 +27,13 @@ The visualization illustrates that our proposed method can reduce the octave err
 
 The bold values indicate the best performance for a specific metric.
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png" alt="Table" width="1800">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png" alt="Table" width="1800" height="auto">
 
 ### Ablation study result_1
 
 Results of ablation experiments introducing a self-distillation and multi-level supervision method in partially existing singing melody extraction model. SD-MS indicates that self-distillation and multi-level supervision is used.
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="1800">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="1800" height="auto"> 
 
 ### Ablation study result_2
 
