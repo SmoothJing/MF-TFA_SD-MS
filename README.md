@@ -1,4 +1,5 @@
 # MF-TFA_SD-MS
+
 ## Introduction
 The official implementation of "A Singing Melody Extraction Network Via Self-Distillation and Multi-Level Supervision."
 Our paper has been accepted by 2025 ICASSP.
@@ -37,7 +38,20 @@ The bold values indicate the best performance for a specific metric.
 
 ![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png)
 
+### Ablation study result1
+
+Results of ablation experiments introducing a self-distillation and multi-level supervision method in partially existing singing melody extraction model. SD-MS indicates that self-distillation and multi-level supervision is used.
+
+![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png)
+
+### Ablation study result2
+
+Ablation study of the loss function on three datasets
+
+![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-s.png)
+
 ## Important updata
+
 The entire code scripts will be made public after being licensed.
 
 ## Special thanks
