@@ -5,7 +5,7 @@ The official implementation of "A Singing Melody Extraction Network Via Self-Dis
 
 We propose a singing melody extraction network consisting of five stacked multi-scale feature time-frequency aggregation (MF-TFA) modules. In the same network, deeper layers generally contain more contextual information than shallower layers. To help the shallower layers enhance the ability of task-relevant feature extraction, we propose a self-distillation and multi-level supervision (SD-MS) method, which leverages the feature distillation from the deepest layer to the shallower one and multi-level supervision to guide network training. 
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png" alt="Table" width="1800" height="200">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png" alt="Table" width="1800" height="500">
 
 ## Getting Started
 
