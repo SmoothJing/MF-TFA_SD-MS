@@ -14,7 +14,7 @@ multi-level supervision (SD-MS) method, which leverages the fea-
 ture distillation from the deepest layer to the shallower one and
 multi-level supervision to guide network training. 
 
-![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png)
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png" alt="Table" width="800">
 
 ## Getting Started
 
@@ -36,13 +36,12 @@ The visualization illustrates that our proposed method can reduce the octave err
 
 The bold values indicate the best performance for a specific metric.
 
-![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png)
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png" alt="Table" width="800">
 
 ### Ablation study result_1
 
 Results of ablation experiments introducing a self-distillation and multi-level supervision method in partially existing singing melody extraction model. SD-MS indicates that self-distillation and multi-level supervision is used.
 
-![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png)
 <img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png" alt="Table" width="800">
 
 ### Ablation study result_2r
