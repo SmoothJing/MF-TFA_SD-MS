@@ -14,7 +14,7 @@ multi-level supervision (SD-MS) method, which leverages the fea-
 ture distillation from the deepest layer to the shallower one and
 multi-level supervision to guide network training. 
 
-<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png" alt="Table" width="800">
+<img src="https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/arch.png" alt="Table" width="1800">
 
 ## Getting Started
 
