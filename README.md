@@ -38,13 +38,13 @@ The bold values indicate the best performance for a specific metric.
 
 ![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-1.png)
 
-### Ablation study result1
+### Ablation study result_1
 
 Results of ablation experiments introducing a self-distillation and multi-level supervision method in partially existing singing melody extraction model. SD-MS indicates that self-distillation and multi-level supervision is used.
 
 ![image](https://github.com/SmoothJing/MF-TFA_SD-MS/blob/main/fig/results-2.png)
 
-### Ablation study result2
+### Ablation study result_2
 
 Ablation study of the loss function on three datasets
 
