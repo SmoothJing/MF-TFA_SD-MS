@@ -50,7 +50,7 @@ The entire code scripts will be made public after being licensed.
 - [Haojie Wei](https://github.com/Dream-High)
 - [Ke Chen](https://github.com/KnutKeChen)
 
-### Reference
+## Reference
 ```bibtex
 @INPROCEEDINGS{10889864,
   author={Hu, Ying and Jing, Jiabo and Li, Fan and He, Lijun and Lin, Li and Yang, Wenzhong},
