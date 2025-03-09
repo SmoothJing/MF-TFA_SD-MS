@@ -50,7 +50,8 @@ The entire code scripts will be made public after being licensed.
 - [Haojie Wei](https://github.com/Dream-High)
 - [Ke Chen](https://github.com/KnutKeChen)
 
-## Special thanks
+### Reference
+```bibtex
 @INPROCEEDINGS{10889864,
   author={Hu, Ying and Jing, Jiabo and Li, Fan and He, Lijun and Lin, Li and Yang, Wenzhong},
   booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
@@ -60,5 +61,6 @@ The entire code scripts will be made public after being licensed.
   number={},
   pages={1-5},
   keywords={Training;Visualization;Time-frequency analysis;Semantics;Signal processing;Feature extraction;Multiple signal classification;Data mining;Speech processing;Music information retrieval;Singing melody extraction;self-distillation and multi-level supervision;music information retrieval;polyphonic music},
-  doi={10.1109/ICASSP49660.2025.10889864}}
+  doi={10.1109/ICASSP49660.2025.10889864}
+}
 
