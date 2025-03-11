@@ -52,15 +52,12 @@ The entire code scripts will be made public after being licensed.
 
 ## Reference
 ```bibtex
-@INPROCEEDINGS{10889864,
+@inproceedings{hu2025singing,
+  title={A Singing Melody Extraction Network Via Self-Distillation and Multi-Level Supervision},
   author={Hu, Ying and Jing, Jiabo and Li, Fan and He, Lijun and Lin, Li and Yang, Wenzhong},
-  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={A Singing Melody Extraction Network Via Self-Distillation and Multi-Level Supervision}, 
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
   year={2025},
-  volume={},
-  number={},
-  pages={1-5},
-  keywords={Training;Visualization;Time-frequency analysis;Semantics;Signal processing;Feature extraction;Multiple signal classification;Data mining;Speech processing;Music information retrieval;Singing melody extraction;self-distillation and multi-level supervision;music information retrieval;polyphonic music},
-  doi={10.1109/ICASSP49660.2025.10889864}
+  organization={IEEE}
 }
 
